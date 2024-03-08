@@ -23,13 +23,6 @@ Security Voice-code Access is a desktop application designed for secure access c
 ## Screenshot
 ![screenshot](https://github.com/mohandemadx/Security-Voice-code-Access/blob/main/assets/Screenshot%202024-02-21%200130373.png)
 
-## Contributors
- <a href="https://github.com/Habiba-Mohsen">
-    <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="Habiba Mohsen">
-  </a>
-  <a href="https://github.com/mohandemadx">
-    <img src="https://github.com/mohandemadx.png" width="100px" alt="Mohand Emad">
-  </a>
 
 ## Acknowledgments
 
